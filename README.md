@@ -10,7 +10,7 @@
 
 <p align ="center">
 
-A repository that displays & organizes projects of the learnjavascript.online courses. 
+A repository that displays & organizes projects of the www.learnjavascript.online courses. 
 
 <!-- In regards to ownership, only files with ".js" are mine. Files with .html & .css (templates) were taken from the learnjavascript.online available course material, unless explicitely expressed as originally made by me. -->
 
