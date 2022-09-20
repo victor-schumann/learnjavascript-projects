@@ -1,10 +1,10 @@
-# learnjavascript.online projects
+# learnjavascript.online free-trial
 
 <p align ="center">
   <a href="https://jessemillar.com/r/man-hours"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Fvictor-schumann%2Flearnjavascript-projects" alt="Man Hours">
   </a>
   <a>
-    <img src='https://progress-bar.dev/7/?scale=76&&title=&width=300&color=5C5C5D'/>
+    <img src='https://progress-bar.dev/7/?scale=7&&title=&width=300&color=5C5C5D'/>
   </a>
 </p>
 
